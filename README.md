@@ -58,7 +58,7 @@ If you do not specify a search directory, the current directory will be used.
 
 
 ## Versioning
-    v. 3.3
+    
 
 ## Author
 * **Svitlana Viblaya**
