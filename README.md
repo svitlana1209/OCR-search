@@ -46,11 +46,15 @@ If you do not specify a search directory, the current directory will be used.
     pip install odfpy
 
 ### Run
-    For Windows: to generate exe file:
-        pyinstaller.exe --onefile search.py
-        run: search.exe
-
-    or run: search.py
+For Windows: to generate exe file:
+```
+pyinstaller.exe --onefile search.py
+search.exe
+```
+or run:
+```
+search.py
+```
 
 ### Example
 
