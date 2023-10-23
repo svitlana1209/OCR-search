@@ -65,7 +65,7 @@ search.py
     v3.3
 
 ## Author
-* **Svitlana Viblaya**
+* **Svitlana Viblaia**
 
 
 ## License
